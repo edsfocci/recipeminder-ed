@@ -120,6 +120,6 @@ STATICFILES_DIRS = (
 )
 
 BOOTSTRAP3 = {
-    'theme_url': 'http://bootswatch.com/2/amelia/bootstrap.min.css'
+    'theme_url': 'https://bootswatch.com/2/amelia/bootstrap.min.css'
 }
 
