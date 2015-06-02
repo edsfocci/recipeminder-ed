@@ -119,3 +119,7 @@ STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
 
+BOOTSTRAP3 = {
+    'theme_url': 'http://bootswatch.com/amelia/bootstrap.min.css'
+}
+
